@@ -10,7 +10,7 @@
     "restart": "pm2 restart INCONNU-XD",
     "dev": "node index.js"
   },
-  "keywords": ["inconnu-boy", "whatsapp-bot", "whatsapp md bot"],
+  "keywords": ["inconnu-boy", "INCONNU~XD~C9BCDZzA#u8c6x2CfpydNL-VTf6FePKSrvs9UY9uQzK8wdvpGSHk"],
   "author": "INCONNU BOY",
   "license": "ISC",
   "dependencies": {
@@ -23,7 +23,7 @@
     "adm-zip": "^0.5.16",
     "api-dylux": "^1.8.3",
     "aptoide-scraper": "^1.0.1",
-    "awesome-phonenumber": "^6.8.0",
+    "awesome-phonenumber": "46453737",
     "axios": "^1.6.8",
     "chalk": "^5.3.0",
     "child_process": "^1.0.2",

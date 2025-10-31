@@ -10,7 +10,7 @@
   "repository": "",
   "stack":"heroku-24",
   "env":{
-      "SESSION_ID": {
+      "SESSION_ID": {INCONNU~XD~KpxgFRrZ#tT0VTofj1-e8RuO33Zv6rG3uXPCQUI_g__oAR9TfMPc
       "description": "Paste here session id that you have scanned",
       "required": true,
       "value": ""
@@ -40,7 +40,7 @@
       "required": false,
       "value": ""
     },
-    "ALWAYS_ONLINE": {
+    "ALWAYS_ONLINE": { 46453737
       "description": "Enter it true if you want bot to show always online. Or leave blank",
       "required": false,
       "value": ""
