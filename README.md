@@ -1,13 +1,9 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&height=200&lines=INCONNU+XD+V2;VERSION+2.0.0;BY+INCONNU+BOY+TECH" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&height=200&lines=KURAPIKA+XD+V2;VERSION+2.0.0;BY+KURAPIKA+BOY+TECH" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://files.catbox.moe/e1k73u.jpg" width="800"/>
-</p>
----
 
 ## ⭐ Fork the Repository
 
@@ -18,15 +14,9 @@ Click the button below to fork the repository and get your own copy:
 ---
 ## ⚙️ GET YOUR SESSION 
 
-[![PAIR CODE](https://img.shields.io/badge/GET%20SESSION_ID-Generate%20Now-3F51B5?style=for-the-badge&logo=whatsapp)](https://inconnu-tech-web-session-id.onrender.com/)
+[![PAIR CODE](https://img.shields.io/badge/GET%20SESSION_ID-Generate%20Now-3F51B5?style=for-the-badge&logo=whatsapp)](https://kurapika-tech-web-session-id.onrender.com/)
 
 
----
-## ⌛ WHATSAPP CHANNEL SUPPORT 
-
-[![KURAPIKA TECH](https://img.shields.io/badge/JOIN%20MY-WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbC6It7K0IBkQwaKYd2J)
-
----
 
 ## 🚀 Quick Deployment Options
 
@@ -135,4 +125,4 @@ jobs:
 
 ---
 
-![MADE BY INCONNU BOY](https://img.shields.io/badge/MADE%20BY-INCONNU%20BOY-blueviolet?style=for-the-badge&logo=markdown)
+![MADE BY KURAPIKA BOY](https://img.shields.io/badge/MADE%20BY-INCONNU%20BOY-blueviolet?style=for-the-badge&logo=markdown)
