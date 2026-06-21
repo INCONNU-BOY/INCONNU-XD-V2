@@ -13,7 +13,7 @@
 
 Click the button below to fork the repository and get your own copy:
 
-[![FORK REPO](https://img.shields.io/badge/FORK%20REPO-Click%20Here-007ACC?style=for-the-badge&logo=github)](https://github.com/INCONNU-BOY/INCONNU-XD-V2/fork)
+[![FORK REPO](https://img.shields.io/badge/FORK%20REPO-Click%20Here-007ACC?style=for-the-badge&logo=github)](https://github.com/KURAPIKA-XD-V2/fork)
 
 ---
 ## ⚙️ GET YOUR SESSION 
@@ -24,7 +24,7 @@ Click the button below to fork the repository and get your own copy:
 ---
 ## ⌛ WHATSAPP CHANNEL SUPPORT 
 
-[![INCONNU BOY TECH](https://img.shields.io/badge/JOIN%20MY-WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbC6It7K0IBkQwaKYd2J)
+[![KURAPIKA TECH](https://img.shields.io/badge/JOIN%20MY-WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbC6It7K0IBkQwaKYd2J)
 
 ---
 
@@ -34,7 +34,7 @@ Click the button below to fork the repository and get your own copy:
 
 ------------
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/INCONNU-BOY/INCONNU-XD-V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/KURAPIKA-V2)
 
 ----------
 
@@ -131,7 +131,7 @@ jobs:
 ```
 
 ## ❤️ Credits
-[![GitHub - INCONNU-BOY](https://img.shields.io/badge/GitHub-INCONNU--BOY-181717?style=for-the-badge&logo=github)](https://github.com/INCONNU-BOY)
+[![GitHub - KURAPIKA](https://img.shields.io/badge/GitHub-INCONNU--BOY-181717?style=for-the-badge&logo=github)](https://github.com/KURAPIKA)
 
 ---
 
