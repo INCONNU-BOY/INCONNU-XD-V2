@@ -1,17 +1,17 @@
 {
-  "name": "INCONNU-XD",
+  "name": "KURAPIKA-XD",
   "version": "2.0.0",
   "description": "Better than before",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name INCONNU-XD",
-    "stop": "pm2 stop INCONNU-XD", 
-    "restart": "pm2 restart INCONNU-XD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name KURAPIKA-XD",
+    "stop": "pm2 stop KURAPIKA-XD", 
+    "restart": "pm2 restart KURAPIKA-XD",
     "dev": "node index.js"
   },
   "keywords": ["inconnu boy", "whatsapp-bot", "whatsapp md bot"],
-  "author": "INCONNU BOY",
+  "author": "KURAPIKA BOY",
   "license": "ISC",
   "dependencies": {
     "@whiskeysockets/baileys": "npm:angularsockets",
