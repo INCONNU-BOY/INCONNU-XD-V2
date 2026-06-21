@@ -1,14 +1,14 @@
 {
-    "bot-name": "INCONNU-XD",
+    "bot-name": "KURAPIKA-XD",
     "description": "Whiskey Sockets Baileys Whatsapp bot By joeljamestech",
     "logo": "https://files.catbox.moe/e1k73u.jpg",
     "keywords": ["bot"],
-    "documentation-link": "https://inconnu-boy-tech-bot.onrender.com/pair",
-    "owner-verification": "inconnuboytech@gmail.com",
+    "documentation-link": "https://kurapika-tech-bot.onrender.com/pair",
+    "owner-verification": "kurapiktech@gmail.com",
   
     "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here.get session id from here, https://inconnu-boy-tech-bot.onrender.com/pair",
+        "description": "Put your SESSION_ID here.get session id from here, https://tech-bot.onrender.com/pair",
         "required": true,
         "value":"add your session"
       },
@@ -28,7 +28,7 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "INCONNU BOY"
+      "value": "KURAPIKA"
 }, 
 
     "OWNER_NUMBER": {
